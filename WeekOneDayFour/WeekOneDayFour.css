@@ -1,0 +1,35 @@
+body{
+    font-family: Arial;
+}
+.abzac__one{
+    color: green;
+}
+h{
+    width: 200px;
+    text-align: left;
+}
+ p{
+     text-align: right;
+padding: 30px;
+
+ }
+ .abzac__two{
+     background-color: red;
+ }
+ .abzac__two__blok__one{
+     background-color: blue;
+ }
+.button1{
+    background-color: green;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+}
+.area__one{
+    resize: none;
+}.area__two{
+     resize: both;
+ }
