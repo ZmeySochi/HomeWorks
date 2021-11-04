@@ -13,12 +13,16 @@ h{
 padding: 30px;
 
  }
+ .ButtonThree{
+     text-align: left;
+ }
  .abzac__two{
      background-color: red;
  }
  .abzac__two__blok__one{
      background-color: blue;
  }
+
 .button1{
     background-color: green;
     color: white;
@@ -31,5 +35,25 @@ padding: 30px;
 .area__one{
     resize: none;
 }.area__two{
-     resize: both;
+     resize: vertical;
+ }
+ h
+ {
+    width: 200px;
+
+ }
+.sixParent
+ {
+     display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    border: 3px solid blue;
+ }
+.sixChild
+ {
+     width: 200px;
+     height: 200px;
+     color: blue;
+     border: 3px solid red;
  }
