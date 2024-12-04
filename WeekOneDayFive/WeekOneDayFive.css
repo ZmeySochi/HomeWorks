@@ -1,0 +1,75 @@
+.container{
+    display:flex ;
+}
+.container__square{
+    width: 200px;
+    height: 200px;
+background-color: blue;
+border: 3px solid red;
+    margin-right: 200px;
+}
+.container__circle {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    border: 10px double black;
+    border-radius: 50%;
+    margin-right: 200px;
+}
+table{
+
+    width: 400px;
+    border: 10px ;
+
+
+}
+
+th, td {
+    padding: 10px 15px;
+    border: 10px;
+}
+th{
+    background-color: blue ;
+}
+td{
+    background-color: orange;
+}
+.rounding__one{
+    border-radius: 10px 0 0 0 ;
+}
+.rounding__two{
+    border-radius: 0 10px 0 0 ;
+}
+.rounding__three{
+    border-radius:  0 0 0 10px;
+}
+.rounding__four{
+    border-radius:  0 0 10px 0 ;
+}
+sub{
+    color: blue;
+}
+sup{
+    color: red;
+}
+.Links{
+   background-color: brown;
+}
+.link__one{
+    color: red;
+    text-decoration: underline;
+    font-style: oblique;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.link__two{
+    color: greenyellow;
+    text-decoration: underline;
+    font-style: oblique;
+    margin-right: 15px;
+}
+.link__three{
+    color: deepskyblue;
+    text-decoration: underline;
+    font-style: oblique;
+}
